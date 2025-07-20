@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AboutPage.qml</file>
+        <file>CategoryPage.qml</file>
+        <file>ExitPage.qml</file>
+        <file>HomePage.qml</file>
+        <file>main.qml</file>
+        <file>ProductListPage.qml</file>
+        <file>ProductCardPage.qml</file>
+        <file>ProfilePage.qml</file>
+        <file>SubcategoryPage.qml</file>
+        <file>TrainingPage.qml</file>
+        <file>assets/catalog.json</file>
+        <file>components/CustomToolBar.qml</file>
+    </qresource>
+</RCC>
